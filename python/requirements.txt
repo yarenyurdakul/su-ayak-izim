@@ -1,0 +1,9 @@
+Flask
+flask-cors
+mysql-connector-python
+python-dotenv
+openmeteo-requests
+pandas
+requests-cache
+retry-requests
+requests
